@@ -1,10 +1,10 @@
 [gemini-code-1778264311987.md](https://github.com/user-attachments/files/27534354/gemini-code-1778264311987.md)
 # 🗼 Proyecto: Mi Viaje a Tokio
 
-Este es un proyecto web sencillo creado para la asignatura de Desarrollo Web. El sitio web está dedicado a **Tokio**, mi ciudad favorita y próximo destino de viaje.
+Este es un proyecto web sencillo creado con IA para el curso - Página web pública (en menos de 1 hora). El sitio web está dedicado a **Tokio**, mi ciudad favorita y próximo destino de viaje.
 
 ## 👤 Autor
-* **Alumno:** Hector Yulian
+* **Alumno:** Alfonso Bustos
 * **Temática:** Viajes y Cultura Japonesa
 
 ## 🎨 Diseño y Estética
@@ -21,8 +21,10 @@ La web utiliza una paleta de colores minimalista y elegante:
 ## 🔗 Secciones incluidas
 1. Galería visual de Tokio.
 2. Información sobre el autor.
-3. Enlaces oficiales a la Embajada de España en Japón.
-4. Recursos sobre cultura y etiqueta japonesa.
+3. Enlace oficial a la Embajada de España en Japón.
+4. Enlace a pagina web de cultura japonesa.
+5. Enlace a pagina web con el clima en Japón.
+6. Recursos sobre cultura y etiqueta japonesa.
 
 ---
-*Hecho con ❤️ por Hector Yulian*
+*Hecho con ❤️ por Alfonso Bustos*
