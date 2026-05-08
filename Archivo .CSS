@@ -1,0 +1,77 @@
+/* Configuración General */
+body {
+    background-color: #000000; /* Negro */
+    color: #e5e5e5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Encabezado */
+header {
+    text-align: center;
+    padding: 50px 20px;
+    border-bottom: 2px solid #d4af37; /* Oro */
+}
+
+h1 {
+    font-size: 3rem;
+    color: #d4af37;
+    margin-bottom: 10px;
+}
+
+.gold-text {
+    color: #d4af37;
+}
+
+/* Galería de Fotos */
+.gallery {
+    padding: 20px;
+    text-align: center;
+}
+
+.photos {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.photos img {
+    width: 300px;
+    border: 3px solid #d4af37;
+    border-radius: 8px;
+    transition: transform 0.3s;
+}
+
+.photos img:hover {
+    transform: scale(1.05);
+}
+
+/* Enlaces */
+.links {
+    background-color: #111;
+    padding: 30px;
+    margin: 20px auto;
+    max-width: 800px;
+    border-radius: 10px;
+}
+
+a {
+    color: #d4af37;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 0.9rem;
+    color: #d4af37;
+}
